@@ -34,7 +34,3 @@ It covers **data exploration, cleaning, feature engineering, visualization, feat
 - **Extended Analysis:**
   - Multinomial Logistic Regression (OvR vs Multinomial) for fare-based 3-class survival chance.
   - Coefficient interpretation with odds ratios for feature importance.
-
----
-
-## 📂 Repository Structure
